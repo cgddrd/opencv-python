@@ -9,7 +9,7 @@ virtualenv:
 before_install:
  - sudo apt-get update
  - sudo apt-get install python-opencv
- - sudo apt-get install -qq python-numpy python-scipy
+ #- sudo apt-get install -qq python-numpy python-scipy
  - sudo dpkg -L python-opencv
 
 install:

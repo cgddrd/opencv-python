@@ -59,7 +59,7 @@ for s in oldPoints:
     # print "\n\n"
     # print np.ceil(scalePercentResultPoint)
 
-print "\n\n"
+print "Test completed\n\n"
 
 # x = np.array(topLeft)
 # y = np.array(topRight)
